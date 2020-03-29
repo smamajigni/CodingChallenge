@@ -1,0 +1,2253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<add>
+  <doc>
+    <field name="id">751</field>
+    <field name="firstname_t">Matthew</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">50</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">752</field>
+    <field name="firstname_t">Samuel</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">51</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">753</field>
+    <field name="firstname_t">David</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">52</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">754</field>
+    <field name="firstname_t">Joseph</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">53</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">755</field>
+    <field name="firstname_t">Carter</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">54</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">756</field>
+    <field name="firstname_t">Owen</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">55</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">757</field>
+    <field name="firstname_t">Wyatt</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">56</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">758</field>
+    <field name="firstname_t">John</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">57</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">759</field>
+    <field name="firstname_t">Jack</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">58</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">760</field>
+    <field name="firstname_t">Luke</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">59</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">761</field>
+    <field name="firstname_t">Jayden</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">60</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">762</field>
+    <field name="firstname_t">Dylan</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">61</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">763</field>
+    <field name="firstname_t">Grayson</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">62</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">764</field>
+    <field name="firstname_t">Levi</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">63</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">765</field>
+    <field name="firstname_t">Isaac</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">64</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">766</field>
+    <field name="firstname_t">Gabriel</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">65</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">767</field>
+    <field name="firstname_t">Julian</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">66</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">768</field>
+    <field name="firstname_t">Mateo</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">67</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">769</field>
+    <field name="firstname_t">Anthony</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">68</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">770</field>
+    <field name="firstname_t">Jaxon</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">69</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">771</field>
+    <field name="firstname_t">Lincoln</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">70</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">772</field>
+    <field name="firstname_t">Joshua</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">71</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">773</field>
+    <field name="firstname_t">Christopher</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">72</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">774</field>
+    <field name="firstname_t">Andrew</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">73</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">775</field>
+    <field name="firstname_t">Theodore</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">74</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">776</field>
+    <field name="firstname_t">Caleb</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">75</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">777</field>
+    <field name="firstname_t">Ryan</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">76</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">778</field>
+    <field name="firstname_t">Asher</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">77</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">779</field>
+    <field name="firstname_t">Nathan</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">78</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">780</field>
+    <field name="firstname_t">Thomas</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">79</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">781</field>
+    <field name="firstname_t">Leo</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">80</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">782</field>
+    <field name="firstname_t">Isaiah</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">10</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">783</field>
+    <field name="firstname_t">Charles</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">11</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">784</field>
+    <field name="firstname_t">Josiah</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">12</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">785</field>
+    <field name="firstname_t">Hudson</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">13</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">786</field>
+    <field name="firstname_t">Christian</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">14</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">787</field>
+    <field name="firstname_t">Hunter</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">15</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">788</field>
+    <field name="firstname_t">Connor</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">16</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">789</field>
+    <field name="firstname_t">Eli</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">17</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">790</field>
+    <field name="firstname_t">Ezra</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">18</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">791</field>
+    <field name="firstname_t">Aaron</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">19</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">792</field>
+    <field name="firstname_t">Landon</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">20</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">793</field>
+    <field name="firstname_t">Adrian</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">21</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">794</field>
+    <field name="firstname_t">Jonathan</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">22</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">795</field>
+    <field name="firstname_t">Nolan</field>
+    <field name="lastname_t">Ciavatta</field>
+    <field name="age_i">23</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">796</field>
+    <field name="firstname_t">Emily</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">24</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">797</field>
+    <field name="firstname_t">Katherine</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">25</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">798</field>
+    <field name="firstname_t">Emma</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">26</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">799</field>
+    <field name="firstname_t">Angie</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">27</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">800</field>
+    <field name="firstname_t">Angeline</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">28</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">801</field>
+    <field name="firstname_t">Alyssa</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">29</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">802</field>
+    <field name="firstname_t">Millie</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">30</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">803</field>
+    <field name="firstname_t">Erva</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">31</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">804</field>
+    <field name="firstname_t">Sasha</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">32</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">805</field>
+    <field name="firstname_t">Jackie</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">33</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">806</field>
+    <field name="firstname_t">Sophie</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">34</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">807</field>
+    <field name="firstname_t">Sarah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">35</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">808</field>
+    <field name="firstname_t">Frances</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">36</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">809</field>
+    <field name="firstname_t">Ying</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">37</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">810</field>
+    <field name="firstname_t">Beth</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">38</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">811</field>
+    <field name="firstname_t">Behtany</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">39</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">812</field>
+    <field name="firstname_t">Krystal</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">40</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">813</field>
+    <field name="firstname_t">Kim</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">41</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">814</field>
+    <field name="firstname_t">Khloe</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">42</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">815</field>
+    <field name="firstname_t">Kourtney</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">43</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">816</field>
+    <field name="firstname_t">Beyonce</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">44</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">817</field>
+    <field name="firstname_t">Taylor</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">45</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">818</field>
+    <field name="firstname_t">Celine</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">46</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">819</field>
+    <field name="firstname_t">Maddy</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">47</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">820</field>
+    <field name="firstname_t">Oprah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">48</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">821</field>
+    <field name="firstname_t">Ellen</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">49</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">822</field>
+    <field name="firstname_t">Rachel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">50</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">823</field>
+    <field name="firstname_t">Eva</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">51</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">824</field>
+    <field name="firstname_t">Meaghan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">52</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">825</field>
+    <field name="firstname_t">Dior</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">53</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">826</field>
+    <field name="firstname_t">Adalee</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">54</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">827</field>
+    <field name="firstname_t">Palmer</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">55</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">828</field>
+    <field name="firstname_t">Oaklynn</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">56</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">829</field>
+    <field name="firstname_t">Haisley</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">57</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">830</field>
+    <field name="firstname_t">Keily</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">58</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">831</field>
+    <field name="firstname_t">Novah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">59</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">832</field>
+    <field name="firstname_t">Yara</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">60</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">833</field>
+    <field name="firstname_t">Ensley</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">61</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">834</field>
+    <field name="firstname_t">Emma</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">62</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">835</field>
+    <field name="firstname_t">Olivia</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">63</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">836</field>
+    <field name="firstname_t">Ava</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">64</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">837</field>
+    <field name="firstname_t">Isabella</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">65</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">838</field>
+    <field name="firstname_t">Sophia</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">66</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">839</field>
+    <field name="firstname_t">Charlotte</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">67</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">840</field>
+    <field name="firstname_t">Mia</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">68</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">841</field>
+    <field name="firstname_t">Amelia</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">69</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">842</field>
+    <field name="firstname_t">Harper</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">70</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">843</field>
+    <field name="firstname_t">Evelyn</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">71</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">844</field>
+    <field name="firstname_t">Abigail</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">72</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">845</field>
+    <field name="firstname_t">Emily</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">73</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">846</field>
+    <field name="firstname_t">Elizabeth</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">74</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">847</field>
+    <field name="firstname_t">Mila</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">75</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">848</field>
+    <field name="firstname_t">Ella</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">76</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">849</field>
+    <field name="firstname_t">Avery</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">77</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">850</field>
+    <field name="firstname_t">Sofia</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">78</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">851</field>
+    <field name="firstname_t">Camila</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">79</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">852</field>
+    <field name="firstname_t">Aria</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">80</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">853</field>
+    <field name="firstname_t">Scarlett</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">10</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">854</field>
+    <field name="firstname_t">Victoria</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">11</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">855</field>
+    <field name="firstname_t">Madison</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">12</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">856</field>
+    <field name="firstname_t">Luna</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">13</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">857</field>
+    <field name="firstname_t">Grace</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">14</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">858</field>
+    <field name="firstname_t">Chloe</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">15</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">859</field>
+    <field name="firstname_t">Penelope</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">16</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">860</field>
+    <field name="firstname_t">Layla</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">17</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">861</field>
+    <field name="firstname_t">Riley</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">18</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">862</field>
+    <field name="firstname_t">Zoey</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">19</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">863</field>
+    <field name="firstname_t">Nora</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">20</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">864</field>
+    <field name="firstname_t">Lily</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">21</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">865</field>
+    <field name="firstname_t">Eleanor</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">22</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">866</field>
+    <field name="firstname_t">Hannah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">23</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">867</field>
+    <field name="firstname_t">Matt</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">24</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">868</field>
+    <field name="firstname_t">Richard</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">25</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">869</field>
+    <field name="firstname_t">Jack</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">26</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">870</field>
+    <field name="firstname_t">Idris</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">27</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">871</field>
+    <field name="firstname_t">Christian</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">28</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">872</field>
+    <field name="firstname_t">Denzel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">29</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">873</field>
+    <field name="firstname_t">Jack</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">30</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">874</field>
+    <field name="firstname_t">Jim</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">31</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">875</field>
+    <field name="firstname_t">Jackson</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">32</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">876</field>
+    <field name="firstname_t">Mike</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">33</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">877</field>
+    <field name="firstname_t">Dennis</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">34</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">878</field>
+    <field name="firstname_t">Joe</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">35</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">879</field>
+    <field name="firstname_t">Albert</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">36</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">880</field>
+    <field name="firstname_t">Thomas</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">37</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">881</field>
+    <field name="firstname_t">Kamal</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">38</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">882</field>
+    <field name="firstname_t">Daniel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">39</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">883</field>
+    <field name="firstname_t">Will</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">40</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">884</field>
+    <field name="firstname_t">Leonardo</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">41</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">885</field>
+    <field name="firstname_t">William</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">42</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">886</field>
+    <field name="firstname_t">Will</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">43</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">887</field>
+    <field name="firstname_t">Rob</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">44</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">888</field>
+    <field name="firstname_t">Robin</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">45</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">889</field>
+    <field name="firstname_t">Sam</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">46</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">890</field>
+    <field name="firstname_t">Samuel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">47</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">891</field>
+    <field name="firstname_t">Liam</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">48</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">892</field>
+    <field name="firstname_t">Noah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">49</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">893</field>
+    <field name="firstname_t">William</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">50</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">894</field>
+    <field name="firstname_t">James</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">51</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">895</field>
+    <field name="firstname_t">Oliver</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">52</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">896</field>
+    <field name="firstname_t">Benjamin</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">53</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">897</field>
+    <field name="firstname_t">Elijah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">54</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">898</field>
+    <field name="firstname_t">Lucas</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">55</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">899</field>
+    <field name="firstname_t">Mason</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">56</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">900</field>
+    <field name="firstname_t">Logan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">57</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">901</field>
+    <field name="firstname_t">Alexander</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">58</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">902</field>
+    <field name="firstname_t">Ethan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">59</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">903</field>
+    <field name="firstname_t">Jacob</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">60</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">904</field>
+    <field name="firstname_t">Michael</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">61</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">905</field>
+    <field name="firstname_t">Daniel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">62</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">906</field>
+    <field name="firstname_t">Henry</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">63</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">907</field>
+    <field name="firstname_t">Jackson</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">64</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">908</field>
+    <field name="firstname_t">Sebastian</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">65</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">909</field>
+    <field name="firstname_t">Aiden</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">66</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">910</field>
+    <field name="firstname_t">Matthew</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">67</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">911</field>
+    <field name="firstname_t">Samuel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">68</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">912</field>
+    <field name="firstname_t">David</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">69</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">913</field>
+    <field name="firstname_t">Joseph</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">70</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">914</field>
+    <field name="firstname_t">Carter</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">71</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">915</field>
+    <field name="firstname_t">Owen</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">72</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">916</field>
+    <field name="firstname_t">Wyatt</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">73</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">917</field>
+    <field name="firstname_t">John</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">74</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">918</field>
+    <field name="firstname_t">Jack</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">75</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">919</field>
+    <field name="firstname_t">Luke</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">76</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">920</field>
+    <field name="firstname_t">Jayden</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">77</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">921</field>
+    <field name="firstname_t">Dylan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">78</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">922</field>
+    <field name="firstname_t">Grayson</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">79</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">923</field>
+    <field name="firstname_t">Levi</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">80</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">924</field>
+    <field name="firstname_t">Isaac</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">10</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">925</field>
+    <field name="firstname_t">Gabriel</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">11</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">926</field>
+    <field name="firstname_t">Julian</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">12</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">927</field>
+    <field name="firstname_t">Mateo</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">13</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">928</field>
+    <field name="firstname_t">Anthony</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">14</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">929</field>
+    <field name="firstname_t">Jaxon</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">15</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">930</field>
+    <field name="firstname_t">Lincoln</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">16</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">931</field>
+    <field name="firstname_t">Joshua</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">17</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">932</field>
+    <field name="firstname_t">Christopher</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">18</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">933</field>
+    <field name="firstname_t">Andrew</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">19</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">934</field>
+    <field name="firstname_t">Theodore</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">20</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">935</field>
+    <field name="firstname_t">Caleb</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">21</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">936</field>
+    <field name="firstname_t">Ryan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">22</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">937</field>
+    <field name="firstname_t">Asher</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">23</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">938</field>
+    <field name="firstname_t">Nathan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">24</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">939</field>
+    <field name="firstname_t">Thomas</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">25</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">940</field>
+    <field name="firstname_t">Leo</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">26</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">941</field>
+    <field name="firstname_t">Isaiah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">27</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">942</field>
+    <field name="firstname_t">Charles</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">28</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">943</field>
+    <field name="firstname_t">Josiah</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">29</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">944</field>
+    <field name="firstname_t">Hudson</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">30</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">945</field>
+    <field name="firstname_t">Christian</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">31</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">946</field>
+    <field name="firstname_t">Hunter</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">32</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">947</field>
+    <field name="firstname_t">Connor</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">33</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">948</field>
+    <field name="firstname_t">Eli</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">34</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">949</field>
+    <field name="firstname_t">Ezra</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">35</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">950</field>
+    <field name="firstname_t">Aaron</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">36</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">951</field>
+    <field name="firstname_t">Landon</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">37</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">952</field>
+    <field name="firstname_t">Adrian</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">38</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">953</field>
+    <field name="firstname_t">Jonathan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">39</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">954</field>
+    <field name="firstname_t">Nolan</field>
+    <field name="lastname_t">Ford</field>
+    <field name="age_i">40</field>
+    <field name="gender_t">M</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">955</field>
+    <field name="firstname_t">Emily</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">41</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">956</field>
+    <field name="firstname_t">Katherine</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">42</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">957</field>
+    <field name="firstname_t">Emma</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">43</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">958</field>
+    <field name="firstname_t">Angie</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">44</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">959</field>
+    <field name="firstname_t">Angeline</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">45</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">960</field>
+    <field name="firstname_t">Alyssa</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">46</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">961</field>
+    <field name="firstname_t">Millie</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">47</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">962</field>
+    <field name="firstname_t">Erva</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">48</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">963</field>
+    <field name="firstname_t">Sasha</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">49</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">964</field>
+    <field name="firstname_t">Jackie</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">50</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">965</field>
+    <field name="firstname_t">Sophie</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">51</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">966</field>
+    <field name="firstname_t">Sarah</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">52</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">967</field>
+    <field name="firstname_t">Frances</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">53</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">968</field>
+    <field name="firstname_t">Ying</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">54</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">969</field>
+    <field name="firstname_t">Beth</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">55</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">970</field>
+    <field name="firstname_t">Behtany</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">56</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">971</field>
+    <field name="firstname_t">Krystal</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">57</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">972</field>
+    <field name="firstname_t">Kim</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">58</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">973</field>
+    <field name="firstname_t">Khloe</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">59</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">974</field>
+    <field name="firstname_t">Kourtney</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">60</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">975</field>
+    <field name="firstname_t">Beyonce</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">61</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">976</field>
+    <field name="firstname_t">Taylor</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">62</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">977</field>
+    <field name="firstname_t">Celine</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">63</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">978</field>
+    <field name="firstname_t">Maddy</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">64</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">979</field>
+    <field name="firstname_t">Oprah</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">65</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">980</field>
+    <field name="firstname_t">Ellen</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">66</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">981</field>
+    <field name="firstname_t">Rachel</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">67</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">982</field>
+    <field name="firstname_t">Eva</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">68</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">983</field>
+    <field name="firstname_t">Meaghan</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">69</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">984</field>
+    <field name="firstname_t">Dior</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">70</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">985</field>
+    <field name="firstname_t">Adalee</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">71</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">986</field>
+    <field name="firstname_t">Palmer</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">72</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">987</field>
+    <field name="firstname_t">Oaklynn</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">73</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Caps</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">988</field>
+    <field name="firstname_t">Haisley</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">74</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bridges and Implants</field>
+    <field name="treatmentnotes_t">Bridges and implants are two ways to replace a missing tooth or teeth. Bridges are false teeth anchored in place by neighbouring teeth. The bridge consists of two crowns on the anchoring teeth along with the false tooth in the centre. </field>
+  </doc>
+  <doc>
+    <field name="id">989</field>
+    <field name="firstname_t">Keily</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">75</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Extraction</field>
+    <field name="treatmentnotes_t">A severely damaged tooth may need to be extracted. Permanent teeth may also need to be removed for orthodontic treatment.</field>
+  </doc>
+  <doc>
+    <field name="id">990</field>
+    <field name="firstname_t">Novah</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">76</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Oral Examination</field>
+    <field name="treatmentnotes_t">In this exam, your dentist will feel for lumps or irregular tissue changes in your neck, head, face, and inside your mouth. Your dentist will also look for sores or discolored tissue in your mouth.</field>
+  </doc>
+  <doc>
+    <field name="id">991</field>
+    <field name="firstname_t">Yara</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">77</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dental Cleaning</field>
+    <field name="treatmentnotes_t">Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning.</field>
+  </doc>
+  <doc>
+    <field name="id">992</field>
+    <field name="firstname_t">Ensley</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">78</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Dentures</field>
+    <field name="treatmentnotes_t">Dentures are prosthetic devices replacing lost teeth. There are two types of dentures – partial and full. Full dentures are often referred to as “false teeth”.</field>
+  </doc>
+  <doc>
+    <field name="id">993</field>
+    <field name="firstname_t">Emma</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">79</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Root Canals</field>
+    <field name="treatmentnotes_t">Root canals treat diseases or absessed teeth. Once a tooth is injured, cracked or decayed, it is necessary to open the tooth and clean out the infected tissue in the centre. This space is then filled and the opening sealed.</field>
+  </doc>
+  <doc>
+    <field name="id">994</field>
+    <field name="firstname_t">Olivia</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">80</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Sealants</field>
+    <field name="treatmentnotes_t">Dental sealants, usually applied to the chewing surface of teeth, act as a barrier against decay-causing bacteria. Most often, the sealants are applied to the back teeth, e.g., premolars and molars.</field>
+  </doc>
+  <doc>
+    <field name="id">995</field>
+    <field name="firstname_t">Ava</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">10</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Braces</field>
+    <field name="treatmentnotes_t">A dental brace is a device used to correct the alignment of teeth and bite - related problems (including underbite, overbite, etc.). Braces straighten teeth by exerting steady pressure on the teeth)</field>
+  </doc>
+  <doc>
+    <field name="id">996</field>
+    <field name="firstname_t">Isabella</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">11</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Veneers</field>
+    <field name="treatmentnotes_t">Veneers are strong, thin pieces of porcelain that are bonded to the teeth. They are used to repair chipped, decayed or stained teeth and may help in closing gaps between teeth. With a bit of contouring veneers may also correct slightly crowded or overlapping teeth.</field>
+  </doc>
+  <doc>
+    <field name="id">997</field>
+    <field name="firstname_t">Sophia</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">12</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Crowns</field>
+    <field name="treatmentnotes_t">A crown or cap is a cover that fits over a tooth that has been damaged by decay, broken, badly stained or mis-shaped. It is prepared by your dentist, and usually requires more than one visit to complete.</field>
+  </doc>
+  <doc>
+    <field name="id">998</field>
+    <field name="firstname_t">Charlotte</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">13</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Teeth Whitening</field>
+    <field name="treatmentnotes_t">Teeth naturally darken with age, however staining may be caused by various foods and beverages such as coffee, tea and berries, some drugs such as tetracycline, smoking, or a trauma to a tooth. There are various teeth whitening options available, including in-office and at-home bleaching</field>
+  </doc>
+  <doc>
+    <field name="id">999</field>
+    <field name="firstname_t">Mia</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">14</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Fillings</field>
+    <field name="treatmentnotes_t">This is a treatment that can be used to repair teeth that are decayed,chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth</field>
+  </doc>
+  <doc>
+    <field name="id">1000</field>
+    <field name="firstname_t">Amelia</field>
+    <field name="lastname_t">Gere</field>
+    <field name="age_i">15</field>
+    <field name="gender_t">F</field>
+    <field name="treatmenttype_t">Bonding</field>
+    <field name="treatmentnotes_t">Bonding is a treatment that can be used to repair teeth that are decayed, chipped, fractured or discoloured or to reduce gaps between teeth. For this procedure, a dentist mixes composite resin — a type of plastic — into a paste, then tints the mixture to whiten or match the color of your teeth.</field>
+  </doc>
+</add>
